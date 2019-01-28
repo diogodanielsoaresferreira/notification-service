@@ -1,0 +1,329 @@
+2018-10-25 10:59:33 =CRASH REPORT====
+  crasher:
+    initial call: Elixir.SmsService.Consumer:init/1
+    pid: <0.235.0>
+    registered_name: []
+    exception exit: {{{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'SMS' in vhost '/'">>}},{gen_server,call,[<0.249.0>,{subscribe,{'basic.consume',0,<<"SMS">>,<<>>,false,false,false,false,[]},<0.251.0>},60000]}},[{gen_server,call,3,[{file,"gen_server.erl"},{line,223}]},{'Elixir.AMQP.Basic',consume,4,[{file,"lib/amqp/basic.ex"},{line,260}]},{'Elixir.SmsService.Consumer',rabbitmq_connect,0,[{file,"lib/Consumer.ex"},{line,23}]},{gen_server,init_it,2,[{file,"gen_server.erl"},{line,374}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,342}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,249}]}]}
+    ancestors: ['Elixir.SmsService.Supervisor',<0.233.0>]
+    message_queue_len: 0
+    messages: []
+    links: [<0.234.0>]
+    dictionary: [{gen_server_call_timeout,60000}]
+    trap_exit: false
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 771
+  neighbours:
+2018-10-25 10:59:33 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.SmsService.Supervisor'}
+     Context:    start_error
+     Reason:     {{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'SMS' in vhost '/'">>}},{gen_server,call,[<0.249.0>,{subscribe,{'basic.consume',0,<<"SMS">>,<<>>,false,false,false,false,[]},<0.251.0>},60000]}}
+     Offender:   [{pid,undefined},{id,'Elixir.SmsService.Consumer'},{mfargs,{'Elixir.SmsService.Consumer',start_link,[]}},{restart_type,permanent},{shutdown,infinity},{child_type,supervisor}]
+
+2018-10-25 10:59:33 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.232.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,'Elixir.SmsService.Consumer',{{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'SMS' in vhost '/'">>}},{gen_server,call,[<0.249.0>,{subscribe,{'basic.consume',0,<<"SMS">>,<<>>,false,false,false,false,[]},<0.251.0>},60000]}}}},{'Elixir.SmsService',start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,138}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,249}]}]}
+    ancestors: [<0.231.0>]
+    message_queue_len: 1
+    messages: [{'EXIT',<0.233.0>,normal}]
+    links: [<0.231.0>,<0.42.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 219
+  neighbours:
+2018-10-25 11:02:26 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.SmsService.Supervisor'}
+     Context:    start_error
+     Reason:     {{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'SMS' in vhost '/'">>}},{gen_server,call,[<0.258.0>,{subscribe,{'basic.consume',0,<<"SMS">>,<<>>,false,false,false,false,[]},<0.260.0>},60000]}}
+     Offender:   [{pid,undefined},{id,'Elixir.SmsService.Consumer'},{mfargs,{'Elixir.SmsService.Consumer',start_link,[]}},{restart_type,permanent},{shutdown,infinity},{child_type,supervisor}]
+
+2018-10-25 11:02:26 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.241.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,'Elixir.SmsService.Consumer',{{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'SMS' in vhost '/'">>}},{gen_server,call,[<0.258.0>,{subscribe,{'basic.consume',0,<<"SMS">>,<<>>,false,false,false,false,[]},<0.260.0>},60000]}}}},{'Elixir.SmsService',start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,138}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,249}]}]}
+    ancestors: [<0.240.0>]
+    message_queue_len: 1
+    messages: [{'EXIT',<0.242.0>,normal}]
+    links: [<0.240.0>,<0.42.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 219
+  neighbours:
+2018-10-25 11:03:44 =CRASH REPORT====
+  crasher:
+    initial call: Elixir.SmsService.Consumer:init/1
+    pid: <0.235.0>
+    registered_name: []
+    exception exit: {{{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'SMS' in vhost '/'">>}},{gen_server,call,[<0.249.0>,{subscribe,{'basic.consume',0,<<"SMS">>,<<>>,false,false,false,false,[]},<0.251.0>},60000]}},[{gen_server,call,3,[{file,"gen_server.erl"},{line,223}]},{'Elixir.AMQP.Basic',consume,4,[{file,"lib/amqp/basic.ex"},{line,260}]},{'Elixir.SmsService.Consumer',rabbitmq_connect,0,[{file,"lib/Consumer.ex"},{line,23}]},{gen_server,init_it,2,[{file,"gen_server.erl"},{line,374}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,342}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,249}]}]}
+    ancestors: ['Elixir.SmsService.Supervisor',<0.233.0>]
+    message_queue_len: 0
+    messages: []
+    links: [<0.234.0>]
+    dictionary: [{gen_server_call_timeout,60000}]
+    trap_exit: false
+    status: running
+    heap_size: 987
+    stack_size: 27
+    reductions: 772
+  neighbours:
+2018-10-25 11:03:44 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.SmsService.Supervisor'}
+     Context:    start_error
+     Reason:     {{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'SMS' in vhost '/'">>}},{gen_server,call,[<0.249.0>,{subscribe,{'basic.consume',0,<<"SMS">>,<<>>,false,false,false,false,[]},<0.251.0>},60000]}}
+     Offender:   [{pid,undefined},{id,'Elixir.SmsService.Consumer'},{mfargs,{'Elixir.SmsService.Consumer',start_link,[]}},{restart_type,permanent},{shutdown,infinity},{child_type,supervisor}]
+
+2018-10-25 11:03:44 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.232.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,'Elixir.SmsService.Consumer',{{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'SMS' in vhost '/'">>}},{gen_server,call,[<0.249.0>,{subscribe,{'basic.consume',0,<<"SMS">>,<<>>,false,false,false,false,[]},<0.251.0>},60000]}}}},{'Elixir.SmsService',start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,138}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,249}]}]}
+    ancestors: [<0.231.0>]
+    message_queue_len: 1
+    messages: [{'EXIT',<0.233.0>,normal}]
+    links: [<0.231.0>,<0.42.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 219
+  neighbours:
+2018-10-25 11:03:53 =CRASH REPORT====
+  crasher:
+    initial call: Elixir.SmsService.Consumer:init/1
+    pid: <0.235.0>
+    registered_name: []
+    exception exit: {{{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'SMS' in vhost '/'">>}},{gen_server,call,[<0.249.0>,{subscribe,{'basic.consume',0,<<"SMS">>,<<>>,false,false,false,false,[]},<0.251.0>},60000]}},[{gen_server,call,3,[{file,"gen_server.erl"},{line,223}]},{'Elixir.AMQP.Basic',consume,4,[{file,"lib/amqp/basic.ex"},{line,260}]},{'Elixir.SmsService.Consumer',rabbitmq_connect,0,[{file,"lib/Consumer.ex"},{line,23}]},{gen_server,init_it,2,[{file,"gen_server.erl"},{line,374}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,342}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,249}]}]}
+    ancestors: ['Elixir.SmsService.Supervisor',<0.233.0>]
+    message_queue_len: 0
+    messages: []
+    links: [<0.234.0>]
+    dictionary: [{gen_server_call_timeout,60000}]
+    trap_exit: false
+    status: running
+    heap_size: 987
+    stack_size: 27
+    reductions: 772
+  neighbours:
+2018-10-25 11:03:53 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.SmsService.Supervisor'}
+     Context:    start_error
+     Reason:     {{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'SMS' in vhost '/'">>}},{gen_server,call,[<0.249.0>,{subscribe,{'basic.consume',0,<<"SMS">>,<<>>,false,false,false,false,[]},<0.251.0>},60000]}}
+     Offender:   [{pid,undefined},{id,'Elixir.SmsService.Consumer'},{mfargs,{'Elixir.SmsService.Consumer',start_link,[]}},{restart_type,permanent},{shutdown,infinity},{child_type,supervisor}]
+
+2018-10-25 11:03:53 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.232.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,'Elixir.SmsService.Consumer',{{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'SMS' in vhost '/'">>}},{gen_server,call,[<0.249.0>,{subscribe,{'basic.consume',0,<<"SMS">>,<<>>,false,false,false,false,[]},<0.251.0>},60000]}}}},{'Elixir.SmsService',start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,138}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,249}]}]}
+    ancestors: [<0.231.0>]
+    message_queue_len: 1
+    messages: [{'EXIT',<0.233.0>,normal}]
+    links: [<0.231.0>,<0.42.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 238
+  neighbours:
+2018-10-25 11:04:19 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.SmsService.Supervisor'}
+     Context:    start_error
+     Reason:     {{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'SMS' in vhost '/'">>}},{gen_server,call,[<0.249.0>,{subscribe,{'basic.consume',0,<<"SMS">>,<<>>,false,false,false,false,[]},<0.251.0>},60000]}}
+     Offender:   [{pid,undefined},{id,'Elixir.SmsService.Consumer'},{mfargs,{'Elixir.SmsService.Consumer',start_link,[]}},{restart_type,permanent},{shutdown,infinity},{child_type,supervisor}]
+
+2018-10-25 11:04:19 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.232.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,'Elixir.SmsService.Consumer',{{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'SMS' in vhost '/'">>}},{gen_server,call,[<0.249.0>,{subscribe,{'basic.consume',0,<<"SMS">>,<<>>,false,false,false,false,[]},<0.251.0>},60000]}}}},{'Elixir.SmsService',start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,138}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,249}]}]}
+    ancestors: [<0.231.0>]
+    message_queue_len: 1
+    messages: [{'EXIT',<0.233.0>,normal}]
+    links: [<0.231.0>,<0.42.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 219
+  neighbours:
+2018-10-25 11:04:35 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.SmsService.Supervisor'}
+     Context:    start_error
+     Reason:     {{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'SMS' in vhost '/'">>}},{gen_server,call,[<0.249.0>,{subscribe,{'basic.consume',0,<<"SMS">>,<<>>,false,false,false,false,[]},<0.251.0>},60000]}}
+     Offender:   [{pid,undefined},{id,'Elixir.SmsService.Consumer'},{mfargs,{'Elixir.SmsService.Consumer',start_link,[]}},{restart_type,permanent},{shutdown,infinity},{child_type,supervisor}]
+
+2018-10-25 11:04:35 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.232.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,'Elixir.SmsService.Consumer',{{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'SMS' in vhost '/'">>}},{gen_server,call,[<0.249.0>,{subscribe,{'basic.consume',0,<<"SMS">>,<<>>,false,false,false,false,[]},<0.251.0>},60000]}}}},{'Elixir.SmsService',start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,138}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,249}]}]}
+    ancestors: [<0.231.0>]
+    message_queue_len: 1
+    messages: [{'EXIT',<0.233.0>,normal}]
+    links: [<0.231.0>,<0.42.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 219
+  neighbours:
+2018-10-25 11:05:05 =CRASH REPORT====
+  crasher:
+    initial call: Elixir.SmsService.Consumer:init/1
+    pid: <0.235.0>
+    registered_name: []
+    exception exit: {{{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'SMS' in vhost '/'">>}},{gen_server,call,[<0.249.0>,{subscribe,{'basic.consume',0,<<"SMS">>,<<>>,false,false,false,false,[]},<0.251.0>},60000]}},[{gen_server,call,3,[{file,"gen_server.erl"},{line,223}]},{'Elixir.AMQP.Basic',consume,4,[{file,"lib/amqp/basic.ex"},{line,260}]},{'Elixir.SmsService.Consumer',rabbitmq_connect,0,[{file,"lib/Consumer.ex"},{line,23}]},{gen_server,init_it,2,[{file,"gen_server.erl"},{line,374}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,342}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,249}]}]}
+    ancestors: ['Elixir.SmsService.Supervisor',<0.233.0>]
+    message_queue_len: 0
+    messages: []
+    links: [<0.234.0>]
+    dictionary: [{gen_server_call_timeout,60000}]
+    trap_exit: false
+    status: running
+    heap_size: 987
+    stack_size: 27
+    reductions: 772
+  neighbours:
+2018-10-25 11:05:05 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.SmsService.Supervisor'}
+     Context:    start_error
+     Reason:     {{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'SMS' in vhost '/'">>}},{gen_server,call,[<0.249.0>,{subscribe,{'basic.consume',0,<<"SMS">>,<<>>,false,false,false,false,[]},<0.251.0>},60000]}}
+     Offender:   [{pid,undefined},{id,'Elixir.SmsService.Consumer'},{mfargs,{'Elixir.SmsService.Consumer',start_link,[]}},{restart_type,permanent},{shutdown,infinity},{child_type,supervisor}]
+
+2018-10-25 11:05:05 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.232.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,'Elixir.SmsService.Consumer',{{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'SMS' in vhost '/'">>}},{gen_server,call,[<0.249.0>,{subscribe,{'basic.consume',0,<<"SMS">>,<<>>,false,false,false,false,[]},<0.251.0>},60000]}}}},{'Elixir.SmsService',start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,138}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,249}]}]}
+    ancestors: [<0.231.0>]
+    message_queue_len: 1
+    messages: [{'EXIT',<0.233.0>,normal}]
+    links: [<0.231.0>,<0.42.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 219
+  neighbours:
+2018-10-25 11:07:02 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.SmsService.Supervisor'}
+     Context:    start_error
+     Reason:     {{case_clause,{error,econnrefused}},[{'Elixir.SmsService.Consumer',rabbitmq_connect,0,[{file,"lib/Consumer.ex"},{line,17}]},{gen_server,init_it,2,[{file,"gen_server.erl"},{line,374}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,342}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,249}]}]}
+     Offender:   [{pid,undefined},{id,'Elixir.SmsService.Consumer'},{mfargs,{'Elixir.SmsService.Consumer',start_link,[]}},{restart_type,permanent},{shutdown,infinity},{child_type,supervisor}]
+
+2018-10-25 11:07:02 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.241.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,'Elixir.SmsService.Consumer',{{case_clause,{error,econnrefused}},[{'Elixir.SmsService.Consumer',rabbitmq_connect,0,[{file,"lib/Consumer.ex"},{line,17}]},{gen_server,init_it,2,[{file,"gen_server.erl"},{line,374}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,342}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,249}]}]}}},{'Elixir.SmsService',start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,138}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,249}]}]}
+    ancestors: [<0.240.0>]
+    message_queue_len: 1
+    messages: [{'EXIT',<0.242.0>,normal}]
+    links: [<0.240.0>,<0.42.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 214
+  neighbours:
+2018-10-25 11:08:18 =ERROR REPORT====
+** Generic server <0.265.0> terminating 
+** Last message in was {channel_exit,0,{writer,send_failed,{error,closed}}}
+** When Server state == {state,amqp_network_connection,{state,#Port<0.20>,<<"client 127.0.0.1:57091 -> 127.0.0.1:5672">>,10,<0.268.0>,131072,<0.264.0>,{server_initiated_close,320,<<"CONNECTION_FORCED - broker forced connection closure with reason 'shutdown'">>},true},<0.267.0>,{amqp_params_network,<<"guest">>,<<"guest">>,<<"/">>,"localhost",5672,0,0,10,60000,none,[fun amqp_auth_mechanisms:plain/3,fun amqp_auth_mechanisms:amqplain/3],[],[]},2047,[{<<"capabilities">>,table,[{<<"publisher_confirms">>,bool,true},{<<"exchange_exchange_bindings">>,bool,true},{<<"basic.nack">>,bool,true},{<<"consumer_cancel_notify">>,bool,true},{<<"connection.blocked">>,bool,true},{<<"consumer_priorities">>,bool,true},{<<"authentication_failure_close">>,bool,true},{<<"per_consumer_qos">>,bool,true},{<<"direct_reply_to">>,bool,true}]},{<<"cluster_name">>,longstr,<<"rabbit@c9d684687ffc">>},{<<"copyright">>,longstr,<<"Copyright (C) 2007-2018 Pivotal Software, Inc.">>},{<<"information">>,longstr,<<"Licensed under the MPL.  See http://www.rabbitmq.com/">>},{<<"platform">>,longstr,<<"Erlang/OTP 20.3.8.5">>},{<<"product">>,longstr,<<"RabbitMQ">>},{<<"version">>,longstr,<<"3.7.8">>}],none,{closing,server_initiated_close,{'connection.close',320,<<"CONNECTION_FORCED - broker forced connection closure with reason 'shutdown'">>,0,0},none}}
+** Reason for termination == 
+** {channel0_died,{writer,send_failed,{error,closed}}}
+2018-10-25 11:08:18 =CRASH REPORT====
+  crasher:
+    initial call: amqp_gen_connection:init/1
+    pid: <0.265.0>
+    registered_name: []
+    exception exit: {{channel0_died,{writer,send_failed,{error,closed}}},[{gen_server,handle_common_reply,8,[{file,"gen_server.erl"},{line,751}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,249}]}]}
+    ancestors: [<0.263.0>,amqp_sup,<0.237.0>]
+    message_queue_len: 1
+    messages: [socket_closed]
+    links: [<0.263.0>,#Port<0.20>]
+    dictionary: [{process_name,{amqp_gen_connection,<<"client 127.0.0.1:57091 -> 127.0.0.1:5672">>}},{gen_server_call_timeout,60000}]
+    trap_exit: true
+    status: running
+    heap_size: 4185
+    stack_size: 27
+    reductions: 330435
+  neighbours:
+2018-10-25 11:08:18 =SUPERVISOR REPORT====
+     Supervisor: {<0.263.0>,amqp_connection_sup}
+     Context:    child_terminated
+     Reason:     {channel0_died,{writer,send_failed,{error,closed}}}
+     Offender:   [{pid,<0.265.0>},{name,connection},{mfargs,{amqp_gen_connection,start_link,[<0.264.0>,{amqp_params_network,<<"guest">>,<<"guest">>,<<"/">>,"localhost",5672,0,0,10,60000,none,[fun amqp_auth_mechanisms:plain/3,fun amqp_auth_mechanisms:amqplain/3],[],[]}]}},{restart_type,intrinsic},{shutdown,brutal_kill},{child_type,worker}]
+
+2018-10-25 11:08:18 =SUPERVISOR REPORT====
+     Supervisor: {<0.263.0>,amqp_connection_sup}
+     Context:    shutdown
+     Reason:     reached_max_restart_intensity
+     Offender:   [{pid,<0.265.0>},{name,connection},{mfargs,{amqp_gen_connection,start_link,[<0.264.0>,{amqp_params_network,<<"guest">>,<<"guest">>,<<"/">>,"localhost",5672,0,0,10,60000,none,[fun amqp_auth_mechanisms:plain/3,fun amqp_auth_mechanisms:amqplain/3],[],[]}]}},{restart_type,intrinsic},{shutdown,brutal_kill},{child_type,worker}]
+
+2018-10-25 11:45:02 =ERROR REPORT====
+Error in process <0.278.0> with exit value:
+{{badmatch,{<<"AC7fda18118d1b7c04414447ab4cf27586:5a8c82fbd153e236576e447d2bf1cc1a">>}},[{'Elixir.HTTPotion',process_arguments,3,[{file,"lib/httpotion.ex"},{line,453}]},{'Elixir.HTTPotion',request,3,[{file,"lib/httpotion.ex"},{line,453}]},{'Elixir.SmsService.Sms',send_notification,2,[{file,"lib/Sms.ex"},{line,10}]},{'Elixir.SmsService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,61}]}]}
+2018-10-25 11:46:39 =ERROR REPORT====
+Error in process <0.273.0> with exit value:
+{{badkey,body,#{'__struct__' => 'Elixir.HTTPotion.ErrorResponse',message => <<"enetunreach">>}},[{'Elixir.SmsService.Sms',send_notification,2,[{file,"lib/Sms.ex"},{line,12}]},{'Elixir.SmsService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,61}]}]}
+2018-10-25 11:47:15 =ERROR REPORT====
+Error in process <0.271.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Protocol.UndefinedError',description => <<>>,protocol => 'Elixir.String.Chars',value => #{'__struct__' => 'Elixir.HTTPotion.ErrorResponse',message => <<"enetunreach">>}},[{'Elixir.String.Chars','impl_for!',1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,3}]},{'Elixir.String.Chars',to_string,1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,22}]},{'Elixir.IO',puts,2,[{file,"lib/io.ex"},{line,553}]},{'Elixir.SmsService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,61}]}]}
+2018-10-25 11:47:26 =ERROR REPORT====
+Error in process <0.271.0> with exit value:
+{{badkey,body,#{'__struct__' => 'Elixir.HTTPotion.ErrorResponse',message => <<"enetunreach">>}},[{'Elixir.SmsService.Sms',send_notification,2,[{file,"lib/Sms.ex"},{line,12}]},{'Elixir.SmsService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,61}]}]}
+2018-10-25 11:51:47 =ERROR REPORT====
+Error in process <0.273.0> with exit value:
+{badarith,[{erlang,'+',["To=+351",<<"1234567901">>],[]},{'Elixir.SmsService.Sms',send_notification,2,[{file,"lib/Sms.ex"},{line,11}]},{'Elixir.SmsService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,61}]}]}
+2018-10-25 11:53:17 =ERROR REPORT====
+Error in process <0.271.0> with exit value:
+{undef,[{'Elixir.HTTPotion',post,[<<"http://testthings.requestcatcher.com/test">>,[{basic_auth,{<<"AC7fda18118d1b7c04414447ab4cf27586">>,<<"5a8c82fbd153e236576e447d2bf1cc1a">>}}],"To=+3511234567901&From=+12526801302&Body=Your car has stopped its chasrging."],[]},{'Elixir.SmsService.Sms',send_notification,2,[{file,"lib/Sms.ex"},{line,11}]},{'Elixir.SmsService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,61}]}]}
+2018-10-25 11:55:30 =ERROR REPORT====
+Error in process <0.271.0> with exit value:
+{undef,[{'Elixir.HTTPotion','post!',[<<"http://testthings.requestcatcher.com/test">>,"To=+3511234567901&From=+12526801302&Body=Your car has stopped its chasrging.",#{'Authorization' => <<"Basic QUM3ZmRhMTgxMThkMWI3YzA0NDE0NDQ3YWI0Y2YyNzU4Njo1YThjODJmYmQxNTNlMjM2NTc2ZTQ0N2QyYmYxY2MxYQ==">>,'Content-Type' => <<"application/x-www-form-urlencoded">>}],[]},{'Elixir.SmsService.Sms',send_notification,2,[{file,"lib/Sms.ex"},{line,9}]},{'Elixir.SmsService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,61}]}]}
+2018-10-25 13:09:26 =ERROR REPORT====
+Error in process <0.264.0> with exit value:
+{function_clause,[{'Elixir.Access',get,[{form,[{'To',<<"+3511234567901">>},{'From',<<"12526801302">>},{'Body',<<"Your car has stopped its chasrging.">>}]},query,nil],[{file,"lib/access.ex"},{line,316}]},{'Elixir.HTTPotion',append_query_string,2,[{file,"lib/httpotion.ex"},{line,453}]},{'Elixir.HTTPotion',process_arguments,3,[{file,"lib/httpotion.ex"},{line,453}]},{'Elixir.HTTPotion',request,3,[{file,"lib/httpotion.ex"},{line,453}]},{'Elixir.HTTPotion','request!',3,[{file,"lib/httpotion.ex"},{line,453}]},{'Elixir.SmsService.Sms',send_notification,2,[{file,"lib/Sms.ex"},{line,11}]},{'Elixir.SmsService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,61}]}]}
+2018-10-25 13:11:24 =ERROR REPORT====
+Error in process <0.262.0> with exit value:
+{function_clause,[{'Elixir.Access',get,[{form,[{'To',<<"+3511234567901">>},{'From',<<"12526801302">>},{'Body',<<"Your car has stopped its chasrging.">>}]},query,nil],[{file,"lib/access.ex"},{line,316}]},{'Elixir.HTTPotion',append_query_string,2,[{file,"lib/httpotion.ex"},{line,453}]},{'Elixir.HTTPotion',process_arguments,3,[{file,"lib/httpotion.ex"},{line,453}]},{'Elixir.HTTPotion',request,3,[{file,"lib/httpotion.ex"},{line,453}]},{'Elixir.HTTPotion','request!',3,[{file,"lib/httpotion.ex"},{line,453}]},{'Elixir.SmsService.Sms',send_notification,2,[{file,"lib/Sms.ex"},{line,11}]},{'Elixir.SmsService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,61}]}]}
+2018-10-25 13:11:58 =ERROR REPORT====
+Error in process <0.271.0> with exit value:
+{function_clause,[{'Elixir.Access',get,[{form,[{'To',<<"+3511234567901">>},{'From',<<"12526801302">>},{'Body',<<"Your car has stopped its chasrging.">>}]},query,nil],[{file,"lib/access.ex"},{line,316}]},{'Elixir.HTTPotion',append_query_string,2,[{file,"lib/httpotion.ex"},{line,453}]},{'Elixir.HTTPotion',process_arguments,3,[{file,"lib/httpotion.ex"},{line,453}]},{'Elixir.HTTPotion',request,3,[{file,"lib/httpotion.ex"},{line,453}]},{'Elixir.HTTPotion','request!',3,[{file,"lib/httpotion.ex"},{line,453}]},{'Elixir.SmsService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,61}]}]}
+2018-10-25 13:14:33 =ERROR REPORT====
+Error in process <0.271.0> with exit value:
+{undef,[{'Elixir.HTTPotion','post!',[<<"http://testthings.requestcatcher.com/test">>,{form,[{'To',<<"+3511234567901">>},{'From',<<"12526801302">>},{'Body',<<"Your car has stopped its chasrging.">>}]},[],[{basic_auth,{<<"AC7fda18118d1b7c04414447ab4cf27586">>,<<"5a8c82fbd153e236576e447d2bf1cc1a">>}}]],[]},{'Elixir.SmsService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,61}]}]}
+2018-10-25 13:17:00 =ERROR REPORT====
+Error in process <0.271.0> with exit value:
+{undef,[{'Elixir.HTTPotion','post!',[<<"http://testthings.requestcatcher.com/test">>,{form,[{'To',<<"+3511234567901">>},{'From',<<"12526801302">>},{'Body',<<"Your car has stopped its chasrging.">>}]},[{basic_auth,{<<"AC7fda18118d1b7c04414447ab4cf27586">>,<<"5a8c82fbd153e236576e447d2bf1cc1a">>}}]],[]},{'Elixir.SmsService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,61}]}]}
+2018-10-25 13:27:45 =ERROR REPORT====
+Error in process <0.309.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Protocol.UndefinedError',description => <<>>,protocol => 'Elixir.String.Chars',value => {error,<<"The requested resource /2010-04-01/Messages.json was not found">>,404}},[{'Elixir.String.Chars','impl_for!',1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,3}]},{'Elixir.String.Chars',to_string,1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,22}]},{'Elixir.IO',puts,2,[{file,"lib/io.ex"},{line,553}]},{'Elixir.SmsService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,61}]}]}
+2018-10-25 13:28:16 =ERROR REPORT====
+Error in process <0.307.0> with exit value:
+{badarg,[{erlang,apply,[{error,<<"The requested resource /2010-04-01/Messages.json was not found">>,404},error_message,[]],[]},{'Elixir.SmsService.Sms',send_notification,2,[{file,"lib/Sms.ex"},{line,10}]},{'Elixir.SmsService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,61}]}]}

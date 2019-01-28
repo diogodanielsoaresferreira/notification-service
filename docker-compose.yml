@@ -1,0 +1,72 @@
+version: '3'
+services:
+
+  phoenix:
+    build:
+      context: notification_manager
+    environment:
+      # Variables to connect to our Postgres server
+      PGUSER: postgres
+      PGPASSWORD: postgres
+      PGDATABASE: notifications_prod
+      PGPORT: 5432
+      # Hostname of our Postgres container
+      PGHOST: PostgreSQL
+      PORT: 4000
+      MIX_ENV: prod
+    restart: always
+    ports:
+      # Mapping the port to make the Phoenix app accessible outside of the container
+      - "4000:4000"
+    depends_on:
+      - PostgreSQL
+      - rabbitmq
+
+  email_service:
+    build:
+      context: email_service
+    environment:
+      MIX_ENV: prod
+    restart: always
+    depends_on:
+      - rabbitmq
+
+  sms_service:
+    build:
+      context: sms_service
+    environment:
+      MIX_ENV: prod
+    restart: always
+    depends_on:
+      - rabbitmq
+
+  app_service:
+    build:
+      context: app_service
+    environment:
+      MIX_ENV: prod
+    restart: always
+    depends_on:
+      - rabbitmq
+
+  PostgreSQL:
+    restart: always
+    image: postgres
+    hostname: "PostgreSQL"
+    ports:
+      - 5432:5432
+    expose:
+      - "5432"
+    environment:
+      - DEBUG=false
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=notifications_prod
+    volumes:
+      - ./postgresql:/var/lib/postgresql
+
+  rabbitmq:
+    image: rabbitmq:3
+    ports:
+      - 5672:5672
+      - 15672:15672

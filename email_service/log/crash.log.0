@@ -1,0 +1,236 @@
+2018-10-19 23:22:57 =CRASH REPORT====
+  crasher:
+    initial call: Elixir.EmailService.Consumer:init/1
+    pid: <0.255.0>
+    registered_name: []
+    exception error: {function_clause,[{'Elixir.AMQP.Connection',open,[#{host => <<"localhost">>,port => 5672}],[{file,"lib/amqp/connection.ex"},{line,75}]},{'Elixir.EmailService.Consumer',rabbitmq_connect,0,[{file,"lib/Consumer.ex"},{line,18}]},{gen_server,init_it,2,[{file,"gen_server.erl"},{line,374}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,342}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,249}]}]}
+    ancestors: ['Elixir.Notifications.Supervisor',<0.253.0>]
+    message_queue_len: 0
+    messages: []
+    links: [<0.254.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 263
+  neighbours:
+2018-10-19 23:22:57 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Notifications.Supervisor'}
+     Context:    start_error
+     Reason:     {function_clause,[{'Elixir.AMQP.Connection',open,[#{host => <<"localhost">>,port => 5672}],[{file,"lib/amqp/connection.ex"},{line,75}]},{'Elixir.EmailService.Consumer',rabbitmq_connect,0,[{file,"lib/Consumer.ex"},{line,18}]},{gen_server,init_it,2,[{file,"gen_server.erl"},{line,374}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,342}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,249}]}]}
+     Offender:   [{pid,undefined},{id,'Elixir.EmailService.Consumer'},{mfargs,{'Elixir.EmailService.Consumer',start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-10-19 23:22:57 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.252.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,'Elixir.EmailService.Consumer',{function_clause,[{'Elixir.AMQP.Connection',open,[#{host => <<"localhost">>,port => 5672}],[{file,"lib/amqp/connection.ex"},{line,75}]},{'Elixir.EmailService.Consumer',rabbitmq_connect,0,[{file,"lib/Consumer.ex"},{line,18}]},{gen_server,init_it,2,[{file,"gen_server.erl"},{line,374}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,342}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,249}]}]}}},{'Elixir.EmailService',start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,138}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,249}]}]}
+    ancestors: [<0.251.0>]
+    message_queue_len: 1
+    messages: [{'EXIT',<0.253.0>,normal}]
+    links: [<0.251.0>,<0.42.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 223
+  neighbours:
+2018-10-19 23:40:58 =CRASH REPORT====
+  crasher:
+    initial call: Elixir.EmailService.Consumer:init/1
+    pid: <0.232.0>
+    registered_name: []
+    exception error: {function_clause,[{'Elixir.AMQP.Connection',open,[#{host => <<"localhost">>,port => 5672}],[{file,"lib/amqp/connection.ex"},{line,75}]},{'Elixir.EmailService.Consumer',rabbitmq_connect,0,[{file,"lib/Consumer.ex"},{line,18}]},{gen_server,init_it,2,[{file,"gen_server.erl"},{line,374}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,342}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,249}]}]}
+    ancestors: ['Elixir.Notifications.Supervisor',<0.230.0>]
+    message_queue_len: 0
+    messages: []
+    links: [<0.231.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 263
+  neighbours:
+2018-10-19 23:40:58 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Notifications.Supervisor'}
+     Context:    start_error
+     Reason:     {function_clause,[{'Elixir.AMQP.Connection',open,[#{host => <<"localhost">>,port => 5672}],[{file,"lib/amqp/connection.ex"},{line,75}]},{'Elixir.EmailService.Consumer',rabbitmq_connect,0,[{file,"lib/Consumer.ex"},{line,18}]},{gen_server,init_it,2,[{file,"gen_server.erl"},{line,374}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,342}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,249}]}]}
+     Offender:   [{pid,undefined},{id,'Elixir.EmailService.Consumer'},{mfargs,{'Elixir.EmailService.Consumer',start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-10-19 23:40:58 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.229.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,'Elixir.EmailService.Consumer',{function_clause,[{'Elixir.AMQP.Connection',open,[#{host => <<"localhost">>,port => 5672}],[{file,"lib/amqp/connection.ex"},{line,75}]},{'Elixir.EmailService.Consumer',rabbitmq_connect,0,[{file,"lib/Consumer.ex"},{line,18}]},{gen_server,init_it,2,[{file,"gen_server.erl"},{line,374}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,342}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,249}]}]}}},{'Elixir.EmailService',start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,138}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,249}]}]}
+    ancestors: [<0.228.0>]
+    message_queue_len: 1
+    messages: [{'EXIT',<0.230.0>,normal}]
+    links: [<0.228.0>,<0.42.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 223
+  neighbours:
+2018-10-19 23:43:06 =CRASH REPORT====
+  crasher:
+    initial call: Elixir.EmailService.Consumer:init/1
+    pid: <0.232.0>
+    registered_name: []
+    exception exit: {{{shutdown,{server_initiated_close,406,<<"PRECONDITION_FAILED - inequivalent arg 'durable' for queue 'Email' in vhost '/': received 'true' but current is 'false'">>}},{gen_server,call,[<0.246.0>,{call,{'queue.declare',0,<<"Email">>,false,true,false,false,false,[{<<"x-dead-letter-exchange">>,longstr,<<>>},{<<"x-dead-letter-routing-key">>,longstr,<<"Email_error">>}]},none,<0.232.0>},60000]}},[{gen_server,call,3,[{file,"gen_server.erl"},{line,223}]},{'Elixir.AMQP.Queue',declare,3,[{file,"lib/amqp/queue.ex"},{line,35}]},{'Elixir.EmailService.Consumer',setup_queue,1,[{file,"lib/Consumer.ex"},{line,66}]},{'Elixir.EmailService.Consumer',rabbitmq_connect,0,[{file,"lib/Consumer.ex"},{line,24}]},{gen_server,init_it,2,[{file,"gen_server.erl"},{line,374}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,342}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,249}]}]}
+    ancestors: ['Elixir.Notifications.Supervisor',<0.230.0>]
+    message_queue_len: 0
+    messages: []
+    links: [<0.231.0>]
+    dictionary: [{gen_server_call_timeout,60000}]
+    trap_exit: false
+    status: running
+    heap_size: 987
+    stack_size: 27
+    reductions: 823
+  neighbours:
+2018-10-19 23:43:06 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Notifications.Supervisor'}
+     Context:    start_error
+     Reason:     {{shutdown,{server_initiated_close,406,<<"PRECONDITION_FAILED - inequivalent arg 'durable' for queue 'Email' in vhost '/': received 'true' but current is 'false'">>}},{gen_server,call,[<0.246.0>,{call,{'queue.declare',0,<<"Email">>,false,true,false,false,false,[{<<"x-dead-letter-exchange">>,longstr,<<>>},{<<"x-dead-letter-routing-key">>,longstr,<<"Email_error">>}]},none,<0.232.0>},60000]}}
+     Offender:   [{pid,undefined},{id,'Elixir.EmailService.Consumer'},{mfargs,{'Elixir.EmailService.Consumer',start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-10-19 23:56:16 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.EmailService.Supervisor'}
+     Context:    start_error
+     Reason:     {bad_return_value,ok}
+     Offender:   [{pid,undefined},{id,'Elixir.EmailService.Consumer'},{mfargs,{'Elixir.EmailService.Consumer',start_link,[]}},{restart_type,permanent},{shutdown,infinity},{child_type,supervisor}]
+
+2018-10-19 23:56:16 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.229.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,'Elixir.EmailService.Consumer',{bad_return_value,ok}}},{'Elixir.EmailService',start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,138}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,249}]}]}
+    ancestors: [<0.228.0>]
+    message_queue_len: 1
+    messages: [{'EXIT',<0.230.0>,normal}]
+    links: [<0.228.0>,<0.42.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 376
+    stack_size: 27
+    reductions: 221
+  neighbours:
+2018-10-19 23:56:55 =CRASH REPORT====
+  crasher:
+    initial call: Elixir.EmailService.Consumer:init/1
+    pid: <0.232.0>
+    registered_name: []
+    exception exit: {{{shutdown,{server_initiated_close,406,<<"PRECONDITION_FAILED - inequivalent arg 'x-dead-letter-exchange' for queue 'Email' in vhost '/': received the value '' of type 'longstr' but current is none">>}},{gen_server,call,[<0.246.0>,{call,{'queue.declare',0,<<"Email">>,false,false,false,false,false,[{<<"x-dead-letter-exchange">>,longstr,<<>>},{<<"x-dead-letter-routing-key">>,longstr,<<"Email_error">>}]},none,<0.232.0>},60000]}},[{gen_server,call,3,[{file,"gen_server.erl"},{line,223}]},{'Elixir.AMQP.Queue',declare,3,[{file,"lib/amqp/queue.ex"},{line,35}]},{'Elixir.EmailService.Consumer',setup_queue,1,[{file,"lib/Consumer.ex"},{line,68}]},{'Elixir.EmailService.Consumer',rabbitmq_connect,0,[{file,"lib/Consumer.ex"},{line,26}]},{gen_server,init_it,2,[{file,"gen_server.erl"},{line,374}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,342}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,249}]}]}
+    ancestors: ['Elixir.EmailService.Supervisor',<0.230.0>]
+    message_queue_len: 0
+    messages: []
+    links: [<0.231.0>]
+    dictionary: [{gen_server_call_timeout,60000}]
+    trap_exit: false
+    status: running
+    heap_size: 987
+    stack_size: 27
+    reductions: 849
+  neighbours:
+2018-10-19 23:56:55 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.EmailService.Supervisor'}
+     Context:    start_error
+     Reason:     {{shutdown,{server_initiated_close,406,<<"PRECONDITION_FAILED - inequivalent arg 'x-dead-letter-exchange' for queue 'Email' in vhost '/': received the value '' of type 'longstr' but current is none">>}},{gen_server,call,[<0.246.0>,{call,{'queue.declare',0,<<"Email">>,false,false,false,false,false,[{<<"x-dead-letter-exchange">>,longstr,<<>>},{<<"x-dead-letter-routing-key">>,longstr,<<"Email_error">>}]},none,<0.232.0>},60000]}}
+     Offender:   [{pid,undefined},{id,'Elixir.EmailService.Consumer'},{mfargs,{'Elixir.EmailService.Consumer',start_link,[]}},{restart_type,permanent},{shutdown,infinity},{child_type,supervisor}]
+
+2018-10-19 23:57:11 =CRASH REPORT====
+  crasher:
+    initial call: rabbit_writer:enter_mainloop/2
+    pid: <0.247.0>
+    registered_name: []
+    exception error: bad argument: [{erlang,length,['Elixir.None'],[]},{rabbit_binary_generator,string_length,1,[{file,"/home/diogo/Desktop/notification/email_service/deps/rabbit_common/src/rabbit_binary_generator.erl"},{line,166}]},{rabbit_binary_generator,long_string_to_binary,1,[{file,"/home/diogo/Desktop/notification/email_service/deps/rabbit_common/src/rabbit_binary_generator.erl"},{line,162}]},{rabbit_binary_generator,field_value_to_binary,2,[{file,"/home/diogo/Desktop/notification/email_service/deps/rabbit_common/src/rabbit_binary_generator.erl"},{line,119}]},{rabbit_binary_generator,table_field_to_binary,1,[{file,"/home/diogo/Desktop/notification/email_service/deps/rabbit_common/src/rabbit_binary_generator.erl"},{line,117}]},{lists,map,2,[{file,"lists.erl"},{line,1239}]},{rabbit_binary_generator,generate_table,1,[{file,"/home/diogo/Desktop/notification/email_service/deps/rabbit_common/src/rabbit_binary_generator.erl"},{line,147}]},{rabbit_framing_amqp_0_9_1,encode_method_fields,1,[{file,"/home/diogo/Desktop/notification/email_service/deps/rabbit_common/src/rabbit_framing_amqp_0_9_1.erl"},{line,1045}]}]
+    ancestors: [<0.244.0>,<0.238.0>,<0.234.0>,<0.233.0>,amqp_sup,<0.225.0>]
+    message_queue_len: 0
+    messages: []
+    links: [<0.244.0>]
+    dictionary: [{process_name,{rabbit_writer,{<<"client 127.0.0.1:60159 -> 127.0.0.1:5672">>,1}}}]
+    trap_exit: false
+    status: running
+    heap_size: 1598
+    stack_size: 27
+    reductions: 548
+  neighbours:
+2018-10-19 23:57:11 =SUPERVISOR REPORT====
+     Supervisor: {<0.244.0>,amqp_channel_sup}
+     Context:    child_terminated
+     Reason:     {badarg,[{erlang,length,['Elixir.None'],[]},{rabbit_binary_generator,string_length,1,[{file,"/home/diogo/Desktop/notification/email_service/deps/rabbit_common/src/rabbit_binary_generator.erl"},{line,166}]},{rabbit_binary_generator,long_string_to_binary,1,[{file,"/home/diogo/Desktop/notification/email_service/deps/rabbit_common/src/rabbit_binary_generator.erl"},{line,162}]},{rabbit_binary_generator,field_value_to_binary,2,[{file,"/home/diogo/Desktop/notification/email_service/deps/rabbit_common/src/rabbit_binary_generator.erl"},{line,119}]},{rabbit_binary_generator,table_field_to_binary,1,[{file,"/home/diogo/Desktop/notification/email_service/deps/rabbit_common/src/rabbit_binary_generator.erl"},{line,117}]},{lists,map,2,[{file,"lists.erl"},{line,1239}]},{rabbit_binary_generator,generate_table,1,[{file,"/home/diogo/Desktop/notification/email_service/deps/rabbit_common/src/rabbit_binary_generator.erl"},{line,147}]},{rabbit_framing_amqp_0_9_1,encode_method_fields,1,[{file,"/home/diogo/Desktop/notification/email_service/deps/rabbit_common/src/rabbit_framing_amqp_0_9_1.erl"},{line,1045}]}]}
+     Offender:   [{pid,<0.247.0>},{name,writer},{mfargs,{rabbit_writer,start_link,[#Port<0.13>,1,131072,rabbit_framing_amqp_0_9_1,<0.246.0>,{<<"client 127.0.0.1:60159 -> 127.0.0.1:5672">>,1}]}},{restart_type,transient},{shutdown,30000},{child_type,worker}]
+
+2018-10-19 23:57:11 =SUPERVISOR REPORT====
+     Supervisor: {<0.244.0>,amqp_channel_sup}
+     Context:    shutdown
+     Reason:     reached_max_restart_intensity
+     Offender:   [{pid,<0.247.0>},{name,writer},{mfargs,{rabbit_writer,start_link,[#Port<0.13>,1,131072,rabbit_framing_amqp_0_9_1,<0.246.0>,{<<"client 127.0.0.1:60159 -> 127.0.0.1:5672">>,1}]}},{restart_type,transient},{shutdown,30000},{child_type,worker}]
+
+2018-10-19 23:57:11 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.EmailService.Supervisor'}
+     Context:    start_error
+     Reason:     {shutdown,{gen_server,call,[<0.246.0>,{call,{'queue.declare',0,<<"Email">>,false,false,false,false,false,[{<<"x-dead-letter-exchange">>,longstr,'Elixir.None'},{<<"x-dead-letter-routing-key">>,longstr,<<"Email_error">>}]},none,<0.232.0>},60000]}}
+     Offender:   [{pid,undefined},{id,'Elixir.EmailService.Consumer'},{mfargs,{'Elixir.EmailService.Consumer',start_link,[]}},{restart_type,permanent},{shutdown,infinity},{child_type,supervisor}]
+
+2018-10-19 23:58:53 =CRASH REPORT====
+  crasher:
+    initial call: rabbit_writer:enter_mainloop/2
+    pid: <0.248.0>
+    registered_name: []
+    exception error: bad argument: [{erlang,length,['Elixir.None'],[]},{rabbit_binary_generator,string_length,1,[{file,"/home/diogo/Desktop/notification/email_service/deps/rabbit_common/src/rabbit_binary_generator.erl"},{line,166}]},{rabbit_binary_generator,long_string_to_binary,1,[{file,"/home/diogo/Desktop/notification/email_service/deps/rabbit_common/src/rabbit_binary_generator.erl"},{line,162}]},{rabbit_binary_generator,field_value_to_binary,2,[{file,"/home/diogo/Desktop/notification/email_service/deps/rabbit_common/src/rabbit_binary_generator.erl"},{line,119}]},{rabbit_binary_generator,table_field_to_binary,1,[{file,"/home/diogo/Desktop/notification/email_service/deps/rabbit_common/src/rabbit_binary_generator.erl"},{line,117}]},{lists,map,2,[{file,"lists.erl"},{line,1239}]},{rabbit_binary_generator,generate_table,1,[{file,"/home/diogo/Desktop/notification/email_service/deps/rabbit_common/src/rabbit_binary_generator.erl"},{line,147}]},{rabbit_framing_amqp_0_9_1,encode_method_fields,1,[{file,"/home/diogo/Desktop/notification/email_service/deps/rabbit_common/src/rabbit_framing_amqp_0_9_1.erl"},{line,1045}]}]
+    ancestors: [<0.245.0>,<0.239.0>,<0.235.0>,<0.234.0>,amqp_sup,<0.226.0>]
+    message_queue_len: 0
+    messages: []
+    links: [<0.245.0>]
+    dictionary: [{process_name,{rabbit_writer,{<<"client 127.0.0.1:53529 -> 127.0.0.1:5672">>,1}}}]
+    trap_exit: false
+    status: running
+    heap_size: 1598
+    stack_size: 27
+    reductions: 548
+  neighbours:
+2018-10-19 23:58:53 =SUPERVISOR REPORT====
+     Supervisor: {<0.245.0>,amqp_channel_sup}
+     Context:    child_terminated
+     Reason:     {badarg,[{erlang,length,['Elixir.None'],[]},{rabbit_binary_generator,string_length,1,[{file,"/home/diogo/Desktop/notification/email_service/deps/rabbit_common/src/rabbit_binary_generator.erl"},{line,166}]},{rabbit_binary_generator,long_string_to_binary,1,[{file,"/home/diogo/Desktop/notification/email_service/deps/rabbit_common/src/rabbit_binary_generator.erl"},{line,162}]},{rabbit_binary_generator,field_value_to_binary,2,[{file,"/home/diogo/Desktop/notification/email_service/deps/rabbit_common/src/rabbit_binary_generator.erl"},{line,119}]},{rabbit_binary_generator,table_field_to_binary,1,[{file,"/home/diogo/Desktop/notification/email_service/deps/rabbit_common/src/rabbit_binary_generator.erl"},{line,117}]},{lists,map,2,[{file,"lists.erl"},{line,1239}]},{rabbit_binary_generator,generate_table,1,[{file,"/home/diogo/Desktop/notification/email_service/deps/rabbit_common/src/rabbit_binary_generator.erl"},{line,147}]},{rabbit_framing_amqp_0_9_1,encode_method_fields,1,[{file,"/home/diogo/Desktop/notification/email_service/deps/rabbit_common/src/rabbit_framing_amqp_0_9_1.erl"},{line,1045}]}]}
+     Offender:   [{pid,<0.248.0>},{name,writer},{mfargs,{rabbit_writer,start_link,[#Port<0.7>,1,131072,rabbit_framing_amqp_0_9_1,<0.247.0>,{<<"client 127.0.0.1:53529 -> 127.0.0.1:5672">>,1}]}},{restart_type,transient},{shutdown,30000},{child_type,worker}]
+
+2018-10-19 23:58:53 =SUPERVISOR REPORT====
+     Supervisor: {<0.245.0>,amqp_channel_sup}
+     Context:    shutdown
+     Reason:     reached_max_restart_intensity
+     Offender:   [{pid,<0.248.0>},{name,writer},{mfargs,{rabbit_writer,start_link,[#Port<0.7>,1,131072,rabbit_framing_amqp_0_9_1,<0.247.0>,{<<"client 127.0.0.1:53529 -> 127.0.0.1:5672">>,1}]}},{restart_type,transient},{shutdown,30000},{child_type,worker}]
+
+2018-10-19 23:58:53 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.EmailService.Supervisor'}
+     Context:    start_error
+     Reason:     {shutdown,{gen_server,call,[<0.247.0>,{call,{'queue.declare',0,<<"Email">>,false,false,false,false,false,[{<<"x-dead-letter-exchange">>,longstr,'Elixir.None'},{<<"x-dead-letter-routing-key">>,longstr,<<"Email_error">>}]},none,<0.233.0>},60000]}}
+     Offender:   [{pid,undefined},{id,'Elixir.EmailService.Consumer'},{mfargs,{'Elixir.EmailService.Consumer',start_link,[]}},{restart_type,permanent},{shutdown,infinity},{child_type,supervisor}]
+
+2018-10-19 23:58:53 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.230.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,'Elixir.EmailService.Consumer',{shutdown,{gen_server,call,[<0.247.0>,{call,{'queue.declare',0,<<"Email">>,false,false,false,false,false,[{<<"x-dead-letter-exchange">>,longstr,'Elixir.None'},{<<"x-dead-letter-routing-key">>,longstr,<<"Email_error">>}]},none,<0.233.0>},60000]}}}},{'Elixir.EmailService',start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,138}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,249}]}]}
+    ancestors: [<0.229.0>]
+    message_queue_len: 1
+    messages: [{'EXIT',<0.231.0>,normal}]
+    links: [<0.229.0>,<0.42.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 227
+  neighbours:

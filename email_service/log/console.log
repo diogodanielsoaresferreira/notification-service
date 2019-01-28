@@ -1,0 +1,750 @@
+2018-10-20 00:01:13.917 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-20 00:01:13.920 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-20 00:01:13.921 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-20 00:01:13.922 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-20 00:01:13.922 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-20 00:01:13.927 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-20 00:01:13.927 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-20 00:01:13.988 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-20 00:03:24.860 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-20 00:03:24.864 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-20 00:03:24.865 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-20 00:03:24.866 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-20 00:03:24.866 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-20 00:03:24.871 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-20 00:03:24.871 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-20 00:03:24.930 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-20 00:06:13.054 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-20 00:06:13.058 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-20 00:06:13.060 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-20 00:06:13.060 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-20 00:06:13.060 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-20 00:06:13.066 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-20 00:06:13.066 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-20 00:06:13.127 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-20 00:13:02.368 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-20 00:13:02.372 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-20 00:13:02.373 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-20 00:13:02.373 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-20 00:13:02.373 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-20 00:13:02.379 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-20 00:13:02.379 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-20 00:13:02.439 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-20 00:14:36.933 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-20 00:14:36.937 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-20 00:14:36.939 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-20 00:14:36.939 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-20 00:14:36.940 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-20 00:14:36.946 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-20 00:14:36.946 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-20 00:14:37.007 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-20 00:16:13.583 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-20 00:16:13.586 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-20 00:16:13.588 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-20 00:16:13.588 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-20 00:16:13.588 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-20 00:16:13.594 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-20 00:16:13.594 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-20 00:16:13.657 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-20 00:16:48.396 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-20 00:16:48.400 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-20 00:16:48.401 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-20 00:16:48.401 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-20 00:16:48.401 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-20 00:16:48.407 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-20 00:16:48.407 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-20 00:16:48.484 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-20 00:17:51.165 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-20 00:17:51.168 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-20 00:17:51.170 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-20 00:17:51.171 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-20 00:17:51.171 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-20 00:17:51.177 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-20 00:17:51.177 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-20 00:17:51.238 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-20 00:17:55.571 [error] emulator Error in process <0.263.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Protocol.UndefinedError',description => <<>>,protocol => 'Elixir.String.Chars',value => #{'__struct__' => 'Elixir.EmailService.Message',address => <<"disaogofg@ua.pt">>,message => <<"Your car has stopped its chasrasging.">>}},[{'Elixir.String.Chars','impl_for!',1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,3}]},{'Elixir.String.Chars',to_string,1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,22}]},{'Elixir.IO',puts,2,[{file,"lib/io.ex"},{line,553}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,64}]}]}
+2018-10-20 00:19:07.377 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-20 00:19:07.380 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-20 00:19:07.382 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-20 00:19:07.383 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-20 00:19:07.383 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-20 00:19:07.389 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-20 00:19:07.389 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-20 00:19:07.447 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-20 00:19:07.459 [error] emulator Error in process <0.261.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Protocol.UndefinedError',description => <<>>,protocol => 'Elixir.String.Chars',value => #{<<"address">> => <<"disaogofg@ua.pt">>,<<"message">> => <<"Your car has stopped its chasrasging.">>}},[{'Elixir.String.Chars','impl_for!',1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,3}]},{'Elixir.String.Chars',to_string,1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,22}]},{'Elixir.IO',puts,2,[{file,"lib/io.ex"},{line,553}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,64}]}]}
+2018-10-20 00:19:15.546 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-20 00:19:15.550 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-20 00:19:15.552 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-20 00:19:15.552 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-20 00:19:15.552 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-20 00:19:15.558 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-20 00:19:15.558 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-20 00:19:15.616 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-20 00:19:15.624 [error] emulator Error in process <0.252.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Protocol.UndefinedError',description => <<>>,protocol => 'Elixir.String.Chars',value => #{<<"address">> => <<"disaogofg@ua.pt">>,<<"message">> => <<"Your car has stopped its chasrasging.">>}},[{'Elixir.String.Chars','impl_for!',1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,3}]},{'Elixir.String.Chars',to_string,1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,22}]},{'Elixir.IO',puts,2,[{file,"lib/io.ex"},{line,553}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,64}]}]}
+2018-10-20 00:20:59.230 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-20 00:20:59.233 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-20 00:20:59.234 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-20 00:20:59.235 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-20 00:20:59.235 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-20 00:20:59.241 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-20 00:20:59.241 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-20 00:20:59.300 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-20 00:21:19.013 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-20 00:21:19.016 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-20 00:21:19.017 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-20 00:21:19.018 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-20 00:21:19.018 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-20 00:21:19.026 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-20 00:21:19.026 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-20 00:21:19.089 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-20 00:21:36.835 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-20 00:21:36.837 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-20 00:21:36.839 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-20 00:21:36.839 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-20 00:21:36.840 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-20 00:21:36.845 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-20 00:21:36.845 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-20 00:21:36.903 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-20 00:21:39.064 [error] emulator Error in process <0.263.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Protocol.UndefinedError',description => <<>>,protocol => 'Elixir.String.Chars',value => #{<<"address">> => <<"disaogofg@ua.pt">>,<<"message">> => <<"Your car has stopped its chasrasging.">>}},[{'Elixir.String.Chars','impl_for!',1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,3}]},{'Elixir.String.Chars',to_string,1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,22}]},{'Elixir.IO',puts,2,[{file,"lib/io.ex"},{line,553}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,64}]}]}
+2018-10-20 00:21:58.523 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-20 00:21:58.527 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-20 00:21:58.529 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-20 00:21:58.529 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-20 00:21:58.529 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-20 00:21:58.536 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-20 00:21:58.536 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-20 00:21:58.593 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-20 00:22:15.938 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-20 00:22:15.942 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-20 00:22:15.944 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-20 00:22:15.944 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-20 00:22:15.944 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-20 00:22:15.951 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-20 00:22:15.951 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-20 00:22:16.038 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-20 00:22:38.821 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-20 00:22:38.825 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-20 00:22:38.826 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-20 00:22:38.827 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-20 00:22:38.827 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-20 00:22:38.832 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-20 00:22:38.833 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-20 00:22:38.888 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-20 00:23:03.781 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-20 00:23:03.784 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-20 00:23:03.785 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-20 00:23:03.786 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-20 00:23:03.786 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-20 00:23:03.792 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-20 00:23:03.792 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-20 00:23:03.849 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-20 00:23:21.145 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-20 00:23:21.153 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-20 00:23:21.154 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-20 00:23:21.155 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-20 00:23:21.155 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-20 00:23:21.162 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-20 00:23:21.162 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-20 00:23:21.246 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-20 00:23:24.360 [error] emulator Error in process <0.263.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Protocol.UndefinedError',description => <<>>,protocol => 'Elixir.String.Chars',value => #{'__struct__' => 'Elixir.EmailService.Message',address => <<"disaogofg@ua.pt">>,message => <<"Your car has stopped its chasrasging.">>}},[{'Elixir.String.Chars','impl_for!',1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,3}]},{'Elixir.String.Chars',to_string,1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,22}]},{'Elixir.IO',puts,2,[{file,"lib/io.ex"},{line,553}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,64}]}]}
+2018-10-20 00:24:33.017 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-20 00:24:33.021 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-20 00:24:33.022 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-20 00:24:33.023 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-20 00:24:33.023 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-20 00:24:33.029 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-20 00:24:33.029 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-20 00:24:33.094 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-20 00:24:33.114 [error] emulator Error in process <0.261.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Protocol.UndefinedError',description => <<>>,protocol => 'Elixir.String.Chars',value => #{'__struct__' => 'Elixir.EmailService.Message',address => <<"disaogofg@ua.pt">>,message => <<"Your car has stopped its chasrasging.">>}},[{'Elixir.String.Chars','impl_for!',1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,3}]},{'Elixir.String.Chars',to_string,1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,22}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,64}]}]}
+2018-10-20 00:24:40.395 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-20 00:24:40.398 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-20 00:24:40.399 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-20 00:24:40.400 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-20 00:24:40.400 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-20 00:24:40.405 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-20 00:24:40.406 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-20 00:24:40.462 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-20 00:24:40.479 [error] emulator Error in process <0.252.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Protocol.UndefinedError',description => <<>>,protocol => 'Elixir.String.Chars',value => #{'__struct__' => 'Elixir.EmailService.Message',address => <<"disaogofg@ua.pt">>,message => <<"Your car has stopped its chasrasging.">>}},[{'Elixir.String.Chars','impl_for!',1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,3}]},{'Elixir.String.Chars',to_string,1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,22}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,64}]}]}
+2018-10-20 00:24:43.130 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-20 00:24:43.133 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-20 00:24:43.134 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-20 00:24:43.135 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-20 00:24:43.135 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-20 00:24:43.141 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-20 00:24:43.141 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-20 00:24:43.204 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-20 00:24:43.223 [error] emulator Error in process <0.252.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Protocol.UndefinedError',description => <<>>,protocol => 'Elixir.String.Chars',value => #{'__struct__' => 'Elixir.EmailService.Message',address => <<"disaogofg@ua.pt">>,message => <<"Your car has stopped its chasrasging.">>}},[{'Elixir.String.Chars','impl_for!',1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,3}]},{'Elixir.String.Chars',to_string,1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,22}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,64}]}]}
+2018-10-20 00:24:51.126 [error] emulator Error in process <0.255.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Protocol.UndefinedError',description => <<>>,protocol => 'Elixir.String.Chars',value => #{'__struct__' => 'Elixir.EmailService.Message',address => <<"disaogofg@ua.pt">>,message => <<"Your car has stopped its chasrasging.">>}},[{'Elixir.String.Chars','impl_for!',1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,3}]},{'Elixir.String.Chars',to_string,1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,22}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,64}]}]}
+2018-10-20 00:24:51.800 [error] emulator Error in process <0.256.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Protocol.UndefinedError',description => <<>>,protocol => 'Elixir.String.Chars',value => #{'__struct__' => 'Elixir.EmailService.Message',address => <<"disaogofg@ua.pt">>,message => <<"Your car has stopped its chasrasging.">>}},[{'Elixir.String.Chars','impl_for!',1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,3}]},{'Elixir.String.Chars',to_string,1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,22}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,64}]}]}
+2018-10-20 00:24:52.355 [error] emulator Error in process <0.257.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Protocol.UndefinedError',description => <<>>,protocol => 'Elixir.String.Chars',value => #{'__struct__' => 'Elixir.EmailService.Message',address => <<"disaogofg@ua.pt">>,message => <<"Your car has stopped its chasrasging.">>}},[{'Elixir.String.Chars','impl_for!',1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,3}]},{'Elixir.String.Chars',to_string,1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,22}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,64}]}]}
+2018-10-20 00:25:22.605 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-20 00:25:22.610 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-20 00:25:22.611 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-20 00:25:22.614 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-20 00:25:22.614 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-20 00:25:22.620 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-20 00:25:22.620 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-20 00:25:22.677 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-20 00:25:22.690 [error] emulator Error in process <0.264.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Protocol.UndefinedError',description => <<>>,protocol => 'Elixir.String.Chars',value => #{'__struct__' => 'Elixir.EmailService.Message',address => <<"disaogofg@ua.pt">>,message => <<"Your car has stopped its chasrasging.">>}},[{'Elixir.String.Chars','impl_for!',1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,3}]},{'Elixir.String.Chars',to_string,1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,22}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,64}]}]}
+2018-10-20 00:25:22.695 [error] emulator Error in process <0.263.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Protocol.UndefinedError',description => <<>>,protocol => 'Elixir.String.Chars',value => #{'__struct__' => 'Elixir.EmailService.Message',address => <<"disaogofg@ua.pt">>,message => <<"Your car has stopped its chasrasging.">>}},[{'Elixir.String.Chars','impl_for!',1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,3}]},{'Elixir.String.Chars',to_string,1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,22}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,64}]}]}
+2018-10-20 00:25:22.695 [error] emulator Error in process <0.261.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Protocol.UndefinedError',description => <<>>,protocol => 'Elixir.String.Chars',value => #{'__struct__' => 'Elixir.EmailService.Message',address => <<"disaogofg@ua.pt">>,message => <<"Your car has stopped its chasrasging.">>}},[{'Elixir.String.Chars','impl_for!',1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,3}]},{'Elixir.String.Chars',to_string,1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,22}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,64}]}]}
+2018-10-20 00:25:22.696 [error] emulator Error in process <0.262.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Protocol.UndefinedError',description => <<>>,protocol => 'Elixir.String.Chars',value => #{'__struct__' => 'Elixir.EmailService.Message',address => <<"disaogofg@ua.pt">>,message => <<"Your car has stopped its chasrasging.">>}},[{'Elixir.String.Chars','impl_for!',1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,3}]},{'Elixir.String.Chars',to_string,1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,22}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,64}]}]}
+2018-10-20 00:25:29.427 [error] emulator Error in process <0.267.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Protocol.UndefinedError',description => <<>>,protocol => 'Elixir.String.Chars',value => #{'__struct__' => 'Elixir.EmailService.Message',address => <<"disaogofg@ua.pt">>,message => <<"Your car has stopped its chasrasging.">>}},[{'Elixir.String.Chars','impl_for!',1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,3}]},{'Elixir.String.Chars',to_string,1,[{file,"/home/vagrant/2018-09-24_12-39-03/scripts/elixir/deb/elixir_1.7.3-1/lib/elixir/lib/string/chars.ex"},{line,22}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,64}]}]}
+2018-10-20 00:27:02.588 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-20 00:27:02.592 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-20 00:27:02.593 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-20 00:27:02.593 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-20 00:27:02.593 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-20 00:27:02.599 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-20 00:27:02.599 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-20 00:27:02.653 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-23 09:44:40.451 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-23 09:44:40.457 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-23 09:44:40.460 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-23 09:44:40.461 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-23 09:44:40.461 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-23 09:44:40.471 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-23 09:44:40.471 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-23 09:44:41.058 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-23 09:54:08.456 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-23 09:54:08.458 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-23 09:54:08.461 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-23 09:54:08.462 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-23 09:54:08.462 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-23 09:54:08.470 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-23 09:54:08.470 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-23 09:54:08.475 [info] <0.42.0> Application unicode_util_compat started on node nonode@nohost
+2018-10-23 09:54:08.475 [info] <0.42.0> Application idna started on node nonode@nohost
+2018-10-23 09:54:08.477 [info] <0.42.0> Application mimerl started on node nonode@nohost
+2018-10-23 09:54:08.478 [info] <0.42.0> Application certifi started on node nonode@nohost
+2018-10-23 09:54:08.479 [info] <0.42.0> Application ssl_verify_fun started on node nonode@nohost
+2018-10-23 09:54:08.482 [info] <0.42.0> Application metrics started on node nonode@nohost
+2018-10-23 09:54:08.495 [info] <0.42.0> Application hackney started on node nonode@nohost
+2018-10-23 09:54:08.495 [info] <0.42.0> Application httpoison started on node nonode@nohost
+2018-10-23 09:54:08.503 [info] <0.42.0> Application bamboo started on node nonode@nohost
+2018-10-23 09:54:08.505 [info] <0.42.0> Application gen_smtp started on node nonode@nohost
+2018-10-23 09:54:08.505 [info] <0.42.0> Application bamboo_smtp started on node nonode@nohost
+2018-10-23 09:54:08.666 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-23 09:54:56.262 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-23 09:54:56.266 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-23 09:54:56.267 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-23 09:54:56.268 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-23 09:54:56.268 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-23 09:54:56.275 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-23 09:54:56.275 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-23 09:54:56.278 [info] <0.42.0> Application gen_smtp started on node nonode@nohost
+2018-10-23 09:54:56.278 [info] <0.42.0> Application bamboo_smtp started on node nonode@nohost
+2018-10-23 09:54:56.338 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-23 09:56:59.999 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-23 09:57:00.004 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-23 09:57:00.006 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-23 09:57:00.007 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-23 09:57:00.008 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-23 09:57:00.015 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-23 09:57:00.016 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-23 09:57:00.017 [info] <0.42.0> Application gen_smtp started on node nonode@nohost
+2018-10-23 09:57:00.017 [info] <0.42.0> Application bamboo_smtp started on node nonode@nohost
+2018-10-23 09:57:00.098 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-23 10:07:48.327 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-23 10:07:48.330 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-23 10:07:48.333 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-23 10:07:48.334 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-23 10:07:48.334 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-23 10:07:48.341 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-23 10:07:48.341 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-23 10:07:48.479 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-23 10:26:49.997 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-23 10:26:50.002 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-23 10:26:50.004 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-23 10:26:50.005 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-23 10:26:50.006 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-23 10:26:50.016 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-23 10:26:50.016 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-23 10:26:51.026 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-23 10:30:22.442 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-23 10:30:22.446 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-23 10:30:22.448 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-23 10:30:22.449 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-23 10:30:22.449 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-23 10:30:22.456 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-23 10:30:22.456 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-23 10:30:22.541 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-23 10:30:35.462 [error] emulator Error in process <0.358.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,67}]}]}
+2018-10-23 10:31:28.548 [error] emulator Error in process <0.360.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,67}]}]}
+2018-10-23 10:32:37.853 [error] emulator Error in process <0.362.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,67}]}]}
+2018-10-23 10:33:47.253 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-23 10:33:47.258 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-23 10:33:47.260 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-23 10:33:47.261 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-23 10:33:47.261 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-23 10:33:47.268 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-23 10:33:47.268 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-23 10:33:47.329 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-23 10:33:57.498 [error] emulator Error in process <0.358.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:33:57.507 [error] emulator Error in process <0.357.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:33:57.509 [error] emulator Error in process <0.356.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:34:10.752 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-23 10:34:10.757 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-23 10:34:10.759 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-23 10:34:10.761 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-23 10:34:10.761 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-23 10:34:10.769 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-23 10:34:10.769 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-23 10:34:10.836 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-23 10:34:20.933 [error] emulator Error in process <0.357.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:34:20.941 [error] emulator Error in process <0.358.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:34:20.942 [error] emulator Error in process <0.356.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:34:43.591 [error] emulator Error in process <0.362.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:35:00.602 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-23 10:35:00.611 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-23 10:35:00.613 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-23 10:35:00.616 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-23 10:35:00.616 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-23 10:35:00.641 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-23 10:35:00.641 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-23 10:35:00.732 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-23 10:35:10.978 [error] emulator Error in process <0.359.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:35:10.985 [error] emulator Error in process <0.358.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:35:10.986 [error] emulator Error in process <0.357.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:35:10.987 [error] emulator Error in process <0.356.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:37:34.635 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-23 10:37:34.640 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-23 10:37:34.642 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-23 10:37:34.644 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-23 10:37:34.644 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-23 10:37:34.654 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-23 10:37:34.654 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-23 10:37:34.729 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-23 10:37:44.928 [error] emulator Error in process <0.295.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:37:44.940 [error] emulator Error in process <0.296.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:37:44.940 [error] emulator Error in process <0.297.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:37:44.941 [error] emulator Error in process <0.294.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:41:23.319 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-23 10:41:23.324 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-23 10:41:23.326 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-23 10:41:23.327 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-23 10:41:23.327 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-23 10:41:23.334 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-23 10:41:23.334 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-23 10:41:23.403 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-23 10:41:33.617 [error] emulator Error in process <0.297.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:41:33.626 [error] emulator Error in process <0.295.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:41:33.628 [error] emulator Error in process <0.294.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:41:33.629 [error] emulator Error in process <0.296.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:49:41.440 [error] emulator Error in process <0.305.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:50:04.146 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-23 10:50:04.152 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-23 10:50:04.154 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-23 10:50:04.155 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-23 10:50:04.155 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-23 10:50:04.163 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-23 10:50:04.163 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-23 10:50:04.289 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-23 10:50:14.482 [error] emulator Error in process <0.358.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:50:14.491 [error] emulator Error in process <0.359.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:50:14.495 [error] emulator Error in process <0.360.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:50:14.496 [error] emulator Error in process <0.356.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:50:14.496 [error] emulator Error in process <0.357.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:51:01.115 [error] emulator Error in process <0.364.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:51:41.001 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-23 10:51:41.005 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-23 10:51:41.008 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-23 10:51:41.009 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-23 10:51:41.009 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-23 10:51:41.018 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-23 10:51:41.018 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-23 10:51:41.089 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-23 10:51:51.211 [error] emulator Error in process <0.356.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:51:51.219 [error] emulator Error in process <0.357.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:51:51.221 [error] emulator Error in process <0.360.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:51:51.222 [error] emulator Error in process <0.359.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:51:51.222 [error] emulator Error in process <0.361.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:51:51.224 [error] emulator Error in process <0.358.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:52:08.753 [error] emulator Error in process <0.365.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:52:26.765 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-23 10:52:26.769 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-23 10:52:26.770 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-23 10:52:26.771 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-23 10:52:26.771 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-23 10:52:26.777 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-23 10:52:26.778 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-23 10:52:26.835 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-23 10:52:36.928 [error] emulator Error in process <0.362.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:52:36.937 [error] emulator Error in process <0.360.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:52:36.937 [error] emulator Error in process <0.356.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:52:36.938 [error] emulator Error in process <0.358.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:52:36.939 [error] emulator Error in process <0.359.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:52:36.939 [error] emulator Error in process <0.357.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:52:36.940 [error] emulator Error in process <0.361.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:52:51.544 [error] emulator Error in process <0.366.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:58:00.716 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-23 10:58:00.721 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-23 10:58:00.723 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-23 10:58:00.725 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-23 10:58:00.725 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-23 10:58:00.732 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-23 10:58:00.732 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-23 10:58:00.960 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-23 10:58:01.310 [error] emulator Error in process <0.362.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'tls://smtp.gmail.com', {:error, :nxdomain}}\n">>,raw => {retries_exceeded,{network_failure,"tls://smtp.gmail.com",{error,nxdomain}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:58:01.318 [error] emulator Error in process <0.359.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'tls://smtp.gmail.com', {:error, :nxdomain}}\n">>,raw => {retries_exceeded,{network_failure,"tls://smtp.gmail.com",{error,nxdomain}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:58:01.319 [error] emulator Error in process <0.363.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'tls://smtp.gmail.com', {:error, :nxdomain}}\n">>,raw => {retries_exceeded,{network_failure,"tls://smtp.gmail.com",{error,nxdomain}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:58:01.320 [error] emulator Error in process <0.358.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'tls://smtp.gmail.com', {:error, :nxdomain}}\n">>,raw => {retries_exceeded,{network_failure,"tls://smtp.gmail.com",{error,nxdomain}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:58:01.321 [error] emulator Error in process <0.357.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'tls://smtp.gmail.com', {:error, :nxdomain}}\n">>,raw => {retries_exceeded,{network_failure,"tls://smtp.gmail.com",{error,nxdomain}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:58:01.322 [error] emulator Error in process <0.361.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'tls://smtp.gmail.com', {:error, :nxdomain}}\n">>,raw => {retries_exceeded,{network_failure,"tls://smtp.gmail.com",{error,nxdomain}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:58:01.323 [error] emulator Error in process <0.356.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'tls://smtp.gmail.com', {:error, :nxdomain}}\n">>,raw => {retries_exceeded,{network_failure,"tls://smtp.gmail.com",{error,nxdomain}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:58:01.323 [error] emulator Error in process <0.360.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'tls://smtp.gmail.com', {:error, :nxdomain}}\n">>,raw => {retries_exceeded,{network_failure,"tls://smtp.gmail.com",{error,nxdomain}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:58:15.124 [error] emulator Error in process <0.367.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'tls://smtp.gmail.com', {:error, :nxdomain}}\n">>,raw => {retries_exceeded,{network_failure,"tls://smtp.gmail.com",{error,nxdomain}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:58:17.591 [error] emulator Error in process <0.368.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'tls://smtp.gmail.com', {:error, :nxdomain}}\n">>,raw => {retries_exceeded,{network_failure,"tls://smtp.gmail.com",{error,nxdomain}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:58:17.930 [error] emulator Error in process <0.369.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'tls://smtp.gmail.com', {:error, :nxdomain}}\n">>,raw => {retries_exceeded,{network_failure,"tls://smtp.gmail.com",{error,nxdomain}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:58:30.994 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-23 10:58:30.998 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-23 10:58:31.000 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-23 10:58:31.001 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-23 10:58:31.001 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-23 10:58:31.008 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-23 10:58:31.008 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-23 10:58:31.068 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-23 10:58:41.988 [error] emulator Error in process <0.364.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:58:42.001 [error] emulator Error in process <0.359.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:58:42.002 [error] emulator Error in process <0.363.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:58:42.002 [error] emulator Error in process <0.362.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:58:42.003 [error] emulator Error in process <0.366.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:58:42.004 [error] emulator Error in process <0.358.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:58:42.004 [error] emulator Error in process <0.360.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:58:42.006 [error] emulator Error in process <0.356.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:58:42.007 [error] emulator Error in process <0.365.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:58:42.007 [error] emulator Error in process <0.357.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:58:42.010 [error] emulator Error in process <0.361.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 10:58:54.453 [error] emulator Error in process <0.370.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:01:55.234 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-23 11:01:55.239 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-23 11:01:55.240 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-23 11:01:55.241 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-23 11:01:55.242 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-23 11:01:55.249 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-23 11:01:55.249 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-23 11:01:55.500 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-23 11:02:05.984 [error] emulator Error in process <0.358.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.googlemail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.googlemail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:02:05.992 [error] emulator Error in process <0.366.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.googlemail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.googlemail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:02:05.993 [error] emulator Error in process <0.361.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.googlemail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.googlemail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:02:05.993 [error] emulator Error in process <0.365.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.googlemail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.googlemail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:02:05.994 [error] emulator Error in process <0.360.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.googlemail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.googlemail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:02:05.995 [error] emulator Error in process <0.367.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.googlemail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.googlemail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:02:05.997 [error] emulator Error in process <0.356.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.googlemail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.googlemail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:02:05.997 [error] emulator Error in process <0.363.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.googlemail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.googlemail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:02:05.998 [error] emulator Error in process <0.362.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.googlemail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.googlemail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:02:05.998 [error] emulator Error in process <0.364.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.googlemail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.googlemail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:02:05.999 [error] emulator Error in process <0.359.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.googlemail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.googlemail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:02:05.999 [error] emulator Error in process <0.357.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.googlemail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.googlemail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:15:39.601 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-23 11:15:39.605 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-23 11:15:39.606 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-23 11:15:39.607 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-23 11:15:39.608 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-23 11:15:39.615 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-23 11:15:39.615 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-23 11:15:39.675 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-23 11:15:40.611 [error] emulator Error in process <0.359.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:missing_requirement, 'smtp.gmail.com', :tls}\n">>,raw => {retries_exceeded,{missing_requirement,"smtp.gmail.com",tls}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:15:40.619 [error] emulator Error in process <0.360.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:missing_requirement, 'smtp.gmail.com', :tls}\n">>,raw => {retries_exceeded,{missing_requirement,"smtp.gmail.com",tls}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:15:40.641 [error] emulator Error in process <0.364.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:missing_requirement, 'smtp.gmail.com', :tls}\n">>,raw => {retries_exceeded,{missing_requirement,"smtp.gmail.com",tls}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:15:40.650 [error] emulator Error in process <0.362.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:missing_requirement, 'smtp.gmail.com', :tls}\n">>,raw => {retries_exceeded,{missing_requirement,"smtp.gmail.com",tls}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:15:40.655 [error] emulator Error in process <0.357.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:missing_requirement, 'smtp.gmail.com', :tls}\n">>,raw => {retries_exceeded,{missing_requirement,"smtp.gmail.com",tls}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:15:40.656 [error] emulator Error in process <0.358.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:missing_requirement, 'smtp.gmail.com', :tls}\n">>,raw => {retries_exceeded,{missing_requirement,"smtp.gmail.com",tls}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:15:40.656 [error] emulator Error in process <0.361.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:missing_requirement, 'smtp.gmail.com', :tls}\n">>,raw => {retries_exceeded,{missing_requirement,"smtp.gmail.com",tls}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:15:40.659 [error] emulator Error in process <0.356.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:missing_requirement, 'smtp.gmail.com', :tls}\n">>,raw => {retries_exceeded,{missing_requirement,"smtp.gmail.com",tls}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:15:40.661 [error] emulator Error in process <0.367.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:missing_requirement, 'smtp.gmail.com', :tls}\n">>,raw => {retries_exceeded,{missing_requirement,"smtp.gmail.com",tls}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:15:40.662 [error] emulator Error in process <0.363.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:missing_requirement, 'smtp.gmail.com', :tls}\n">>,raw => {retries_exceeded,{missing_requirement,"smtp.gmail.com",tls}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:15:40.662 [error] emulator Error in process <0.365.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:missing_requirement, 'smtp.gmail.com', :tls}\n">>,raw => {retries_exceeded,{missing_requirement,"smtp.gmail.com",tls}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:15:40.664 [error] emulator Error in process <0.366.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:missing_requirement, 'smtp.gmail.com', :tls}\n">>,raw => {retries_exceeded,{missing_requirement,"smtp.gmail.com",tls}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:16:02.208 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-23 11:16:02.212 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-23 11:16:02.213 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-23 11:16:02.214 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-23 11:16:02.214 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-23 11:16:02.221 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-23 11:16:02.221 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-23 11:16:02.283 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-23 11:16:03.393 [error] emulator Error in process <0.362.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :no_more_hosts\n\nMore detail below:\n\n{:permanent_failure, 'smtp.gmail.com', :auth_failed}\n">>,raw => {no_more_hosts,{permanent_failure,"smtp.gmail.com",auth_failed}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:16:03.406 [error] emulator Error in process <0.364.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :no_more_hosts\n\nMore detail below:\n\n{:permanent_failure, 'smtp.gmail.com', :auth_failed}\n">>,raw => {no_more_hosts,{permanent_failure,"smtp.gmail.com",auth_failed}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:16:03.408 [error] emulator Error in process <0.366.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :no_more_hosts\n\nMore detail below:\n\n{:permanent_failure, 'smtp.gmail.com', :auth_failed}\n">>,raw => {no_more_hosts,{permanent_failure,"smtp.gmail.com",auth_failed}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:16:03.409 [error] emulator Error in process <0.356.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :no_more_hosts\n\nMore detail below:\n\n{:permanent_failure, 'smtp.gmail.com', :auth_failed}\n">>,raw => {no_more_hosts,{permanent_failure,"smtp.gmail.com",auth_failed}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:16:03.409 [error] emulator Error in process <0.363.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :no_more_hosts\n\nMore detail below:\n\n{:permanent_failure, 'smtp.gmail.com', :auth_failed}\n">>,raw => {no_more_hosts,{permanent_failure,"smtp.gmail.com",auth_failed}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:16:03.410 [error] emulator Error in process <0.367.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :no_more_hosts\n\nMore detail below:\n\n{:permanent_failure, 'smtp.gmail.com', :auth_failed}\n">>,raw => {no_more_hosts,{permanent_failure,"smtp.gmail.com",auth_failed}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:16:03.412 [error] emulator Error in process <0.365.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :no_more_hosts\n\nMore detail below:\n\n{:permanent_failure, 'smtp.gmail.com', :auth_failed}\n">>,raw => {no_more_hosts,{permanent_failure,"smtp.gmail.com",auth_failed}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:16:03.421 [error] emulator Error in process <0.359.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :no_more_hosts\n\nMore detail below:\n\n{:permanent_failure, 'smtp.gmail.com', :auth_failed}\n">>,raw => {no_more_hosts,{permanent_failure,"smtp.gmail.com",auth_failed}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:16:03.422 [error] emulator Error in process <0.361.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :no_more_hosts\n\nMore detail below:\n\n{:permanent_failure, 'smtp.gmail.com', :auth_failed}\n">>,raw => {no_more_hosts,{permanent_failure,"smtp.gmail.com",auth_failed}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:16:03.432 [error] emulator Error in process <0.358.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :no_more_hosts\n\nMore detail below:\n\n{:permanent_failure, 'smtp.gmail.com', :auth_failed}\n">>,raw => {no_more_hosts,{permanent_failure,"smtp.gmail.com",auth_failed}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:16:03.471 [error] emulator Error in process <0.357.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :no_more_hosts\n\nMore detail below:\n\n{:permanent_failure, 'smtp.gmail.com', :auth_failed}\n">>,raw => {no_more_hosts,{permanent_failure,"smtp.gmail.com",auth_failed}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:16:03.473 [error] emulator Error in process <0.360.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :no_more_hosts\n\nMore detail below:\n\n{:permanent_failure, 'smtp.gmail.com', :auth_failed}\n">>,raw => {no_more_hosts,{permanent_failure,"smtp.gmail.com",auth_failed}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:17:27.305 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-23 11:17:27.310 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-23 11:17:27.311 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-23 11:17:27.312 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-23 11:17:27.312 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-23 11:17:27.319 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-23 11:17:27.319 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-23 11:17:27.378 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-23 11:17:28.457 [error] emulator Error in process <0.364.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :no_more_hosts\n\nMore detail below:\n\n{:permanent_failure, 'smtp.gmail.com', \"530-5.5.1 Authentication Required. Learn more at\\r\\n530 5.5.1  https://support.google.com/mail/?p=WantAuthError m143-v6sm1278841wmd.29 - gsmtp\\r\\n\"}\n">>,raw => {no_more_hosts,{permanent_failure,"smtp.gmail.com",<<"530-5.5.1 Authentication Required. Learn more at\r\n530 5.5.1  https://support.google.com/mail/?p=WantAuthError m143-v6sm1278841wmd.29 - gsmtp\r\n">>}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:17:28.466 [error] emulator Error in process <0.358.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :no_more_hosts\n\nMore detail below:\n\n{:permanent_failure, 'smtp.gmail.com', \"530-5.5.1 Authentication Required. Learn more at\\r\\n530 5.5.1  https://support.google.com/mail/?p=WantAuthError u13-v6sm588552wrn.11 - gsmtp\\r\\n\"}\n">>,raw => {no_more_hosts,{permanent_failure,"smtp.gmail.com",<<"530-5.5.1 Authentication Required. Learn more at\r\n530 5.5.1  https://support.google.com/mail/?p=WantAuthError u13-v6sm588552wrn.11 - gsmtp\r\n">>}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:17:28.468 [error] emulator Error in process <0.356.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :no_more_hosts\n\nMore detail below:\n\n{:permanent_failure, 'smtp.gmail.com', \"530-5.5.1 Authentication Required. Learn more at\\r\\n530 5.5.1  https://support.google.com/mail/?p=WantAuthError c14-v6sm1971607wmh.44 - gsmtp\\r\\n\"}\n">>,raw => {no_more_hosts,{permanent_failure,"smtp.gmail.com",<<"530-5.5.1 Authentication Required. Learn more at\r\n530 5.5.1  https://support.google.com/mail/?p=WantAuthError c14-v6sm1971607wmh.44 - gsmtp\r\n">>}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:17:28.479 [error] emulator Error in process <0.366.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :no_more_hosts\n\nMore detail below:\n\n{:permanent_failure, 'smtp.gmail.com', \"530-5.5.1 Authentication Required. Learn more at\\r\\n530 5.5.1  https://support.google.com/mail/?p=WantAuthError l4-v6sm1339943wrb.92 - gsmtp\\r\\n\"}\n">>,raw => {no_more_hosts,{permanent_failure,"smtp.gmail.com",<<"530-5.5.1 Authentication Required. Learn more at\r\n530 5.5.1  https://support.google.com/mail/?p=WantAuthError l4-v6sm1339943wrb.92 - gsmtp\r\n">>}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:17:28.492 [error] emulator Error in process <0.359.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :no_more_hosts\n\nMore detail below:\n\n{:permanent_failure, 'smtp.gmail.com', \"530-5.5.1 Authentication Required. Learn more at\\r\\n530 5.5.1  https://support.google.com/mail/?p=WantAuthError q4-v6sm954389wrm.5 - gsmtp\\r\\n\"}\n">>,raw => {no_more_hosts,{permanent_failure,"smtp.gmail.com",<<"530-5.5.1 Authentication Required. Learn more at\r\n530 5.5.1  https://support.google.com/mail/?p=WantAuthError q4-v6sm954389wrm.5 - gsmtp\r\n">>}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:17:28.501 [error] emulator Error in process <0.357.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :no_more_hosts\n\nMore detail below:\n\n{:permanent_failure, 'smtp.gmail.com', \"530-5.5.1 Authentication Required. Learn more at\\r\\n530 5.5.1  https://support.google.com/mail/?p=WantAuthError o130-v6sm1605165wmd.11 - gsmtp\\r\\n\"}\n">>,raw => {no_more_hosts,{permanent_failure,"smtp.gmail.com",<<"530-5.5.1 Authentication Required. Learn more at\r\n530 5.5.1  https://support.google.com/mail/?p=WantAuthError o130-v6sm1605165wmd.11 - gsmtp\r\n">>}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:17:28.506 [error] emulator Error in process <0.367.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :no_more_hosts\n\nMore detail below:\n\n{:permanent_failure, 'smtp.gmail.com', \"530-5.5.1 Authentication Required. Learn more at\\r\\n530 5.5.1  https://support.google.com/mail/?p=WantAuthError h78-v6sm1148508wmd.4 - gsmtp\\r\\n\"}\n">>,raw => {no_more_hosts,{permanent_failure,"smtp.gmail.com",<<"530-5.5.1 Authentication Required. Learn more at\r\n530 5.5.1  https://support.google.com/mail/?p=WantAuthError h78-v6sm1148508wmd.4 - gsmtp\r\n">>}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:17:28.516 [error] emulator Error in process <0.363.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :no_more_hosts\n\nMore detail below:\n\n{:permanent_failure, 'smtp.gmail.com', \"530-5.5.1 Authentication Required. Learn more at\\r\\n530 5.5.1  https://support.google.com/mail/?p=WantAuthError p1-v6sm997849wrw.12 - gsmtp\\r\\n\"}\n">>,raw => {no_more_hosts,{permanent_failure,"smtp.gmail.com",<<"530-5.5.1 Authentication Required. Learn more at\r\n530 5.5.1  https://support.google.com/mail/?p=WantAuthError p1-v6sm997849wrw.12 - gsmtp\r\n">>}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:17:28.517 [error] emulator Error in process <0.361.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :no_more_hosts\n\nMore detail below:\n\n{:permanent_failure, 'smtp.gmail.com', \"530-5.5.1 Authentication Required. Learn more at\\r\\n530 5.5.1  https://support.google.com/mail/?p=WantAuthError g4-v6sm802595wrr.95 - gsmtp\\r\\n\"}\n">>,raw => {no_more_hosts,{permanent_failure,"smtp.gmail.com",<<"530-5.5.1 Authentication Required. Learn more at\r\n530 5.5.1  https://support.google.com/mail/?p=WantAuthError g4-v6sm802595wrr.95 - gsmtp\r\n">>}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:17:28.522 [error] emulator Error in process <0.362.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :no_more_hosts\n\nMore detail below:\n\n{:permanent_failure, 'smtp.gmail.com', \"530-5.5.1 Authentication Required. Learn more at\\r\\n530 5.5.1  https://support.google.com/mail/?p=WantAuthError e7-v6sm1199255wra.37 - gsmtp\\r\\n\"}\n">>,raw => {no_more_hosts,{permanent_failure,"smtp.gmail.com",<<"530-5.5.1 Authentication Required. Learn more at\r\n530 5.5.1  https://support.google.com/mail/?p=WantAuthError e7-v6sm1199255wra.37 - gsmtp\r\n">>}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:17:28.527 [error] emulator Error in process <0.365.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :no_more_hosts\n\nMore detail below:\n\n{:permanent_failure, 'smtp.gmail.com', \"530-5.5.1 Authentication Required. Learn more at\\r\\n530 5.5.1  https://support.google.com/mail/?p=WantAuthError t194-v6sm1731124wmd.48 - gsmtp\\r\\n\"}\n">>,raw => {no_more_hosts,{permanent_failure,"smtp.gmail.com",<<"530-5.5.1 Authentication Required. Learn more at\r\n530 5.5.1  https://support.google.com/mail/?p=WantAuthError t194-v6sm1731124wmd.48 - gsmtp\r\n">>}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:17:28.538 [error] emulator Error in process <0.360.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :no_more_hosts\n\nMore detail below:\n\n{:permanent_failure, 'smtp.gmail.com', \"530-5.5.1 Authentication Required. Learn more at\\r\\n530 5.5.1  https://support.google.com/mail/?p=WantAuthError 65-v6sm1237533wmm.36 - gsmtp\\r\\n\"}\n">>,raw => {no_more_hosts,{permanent_failure,"smtp.gmail.com",<<"530-5.5.1 Authentication Required. Learn more at\r\n530 5.5.1  https://support.google.com/mail/?p=WantAuthError 65-v6sm1237533wmm.36 - gsmtp\r\n">>}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:18:51.813 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-23 11:18:51.817 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-23 11:18:51.819 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-23 11:18:51.820 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-23 11:18:51.820 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-23 11:18:51.827 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-23 11:18:51.827 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-23 11:18:51.897 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-23 11:21:29.467 [error] emulator Error in process <0.369.0> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.Bamboo.SMTPAdapter.SMTPError',message => <<"There was a problem sending the email through SMTP.\n\nThe error is :retries_exceeded\n\nMore detail below:\n\n{:network_failure, 'smtp.gmail.com', {:error, :timeout}}\n">>,raw => {retries_exceeded,{network_failure,"smtp.gmail.com",{error,timeout}}}},[{'Elixir.Bamboo.SMTPAdapter',handle_response,1,[{file,"lib/bamboo/adapters/smtp_adapter.ex"},{line,92}]},{'Elixir.Bamboo.Mailer',deliver_now,3,[{file,"lib/bamboo/mailer.ex"},{line,123}]},{'Elixir.EmailService.Consumer',consume,4,[{file,"lib/Consumer.ex"},{line,66}]}]}
+2018-10-23 11:22:42.447 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-23 11:22:42.452 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-23 11:22:42.455 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-23 11:22:42.464 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-23 11:22:42.464 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-23 11:22:42.475 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-23 11:22:42.475 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-23 11:22:42.607 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-23 11:23:02.547 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-23 11:23:02.551 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-23 11:23:02.553 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-23 11:23:02.554 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-23 11:23:02.554 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-23 11:23:02.560 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-23 11:23:02.560 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-23 11:23:02.631 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-23 11:23:06.168 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-23 11:23:06.172 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-23 11:23:06.173 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-23 11:23:06.174 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-23 11:23:06.174 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-23 11:23:06.181 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-23 11:23:06.181 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-23 11:23:06.251 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-23 11:24:13.790 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-23 11:24:13.798 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-23 11:24:13.799 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-23 11:24:13.800 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-23 11:24:13.800 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-23 11:24:13.807 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-23 11:24:13.807 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-23 11:24:13.874 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-25 10:49:45.077 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-25 10:49:45.082 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-25 10:49:45.083 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-25 10:49:45.084 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-25 10:49:45.084 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-25 10:49:45.091 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-25 10:49:45.092 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-25 10:50:16.998 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-25 10:50:17.001 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-25 10:50:17.003 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-25 10:50:17.004 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-25 10:50:17.004 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-25 10:50:17.010 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-25 10:50:17.010 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-25 10:51:00.584 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-25 10:51:00.589 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-25 10:51:00.590 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-25 10:51:00.591 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-25 10:51:00.591 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-25 10:51:00.598 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-25 10:51:00.598 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-25 10:51:21.156 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-25 10:51:21.160 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-25 10:51:21.161 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-25 10:51:21.162 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-25 10:51:21.162 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-25 10:51:21.168 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-25 10:51:21.168 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-25 10:58:04.420 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-25 10:58:04.425 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-25 10:58:04.426 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-25 10:58:04.427 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-25 10:58:04.427 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-25 10:58:04.433 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-25 10:58:04.433 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-25 11:07:41.617 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-25 11:07:41.620 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-25 11:07:41.622 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-25 11:07:41.623 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-25 11:07:41.623 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-25 11:07:41.629 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-25 11:07:41.629 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-25 11:09:13.896 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-25 11:09:13.900 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-25 11:09:13.902 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-25 11:09:13.903 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-25 11:09:13.903 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-25 11:09:13.909 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-25 11:09:13.909 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-25 11:11:32.511 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-25 11:11:32.515 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-25 11:11:32.516 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-25 11:11:32.517 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-25 11:11:32.517 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-25 11:11:32.525 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-25 11:11:32.525 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-25 11:12:33.596 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-25 11:12:33.600 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-25 11:12:33.602 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-25 11:12:33.603 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-25 11:12:33.603 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-25 11:12:33.609 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-25 11:12:33.609 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-25 11:12:58.587 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-25 11:12:58.591 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-25 11:12:58.592 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-25 11:12:58.593 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-25 11:12:58.593 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-25 11:12:58.599 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-25 11:12:58.599 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-25 11:12:58.838 [info] <0.42.0> Application email_service started on node nonode@nohost
+2018-10-30 19:34:49.122 [info] <0.42.0> Application lager started on node nonode@nohost
+2018-10-30 19:34:49.127 [info] <0.42.0> Application xmerl started on node nonode@nohost
+2018-10-30 19:34:49.129 [info] <0.42.0> Application jsx started on node nonode@nohost
+2018-10-30 19:34:49.130 [info] <0.42.0> Application recon started on node nonode@nohost
+2018-10-30 19:34:49.130 [info] <0.42.0> Application rabbit_common started on node nonode@nohost
+2018-10-30 19:34:49.137 [info] <0.42.0> Application amqp_client started on node nonode@nohost
+2018-10-30 19:34:49.137 [info] <0.42.0> Application amqp started on node nonode@nohost
+2018-10-30 19:34:49.209 [info] <0.42.0> Application email_service started on node nonode@nohost
